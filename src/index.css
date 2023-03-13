@@ -79,6 +79,7 @@ body {
   color: #0d47a1;
   cursor: pointer;
   text-transform: capitalize;
+  background-color: #fff;
 }
 .btn.toggle-btn {
   border-width: 1px;
